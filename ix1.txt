@@ -1,3 +1,1 @@
-#EXTM3U
-#EXTINF:-1,1
 https://cometa.stream.voidboost.cc/841e184aa3512ba593345f5502441173:2023021308:SW1jSzRPcGZLM1JFZ3g4Yms0bGMwS3lsTjE4bEEzdkFYZGNneFJyTmx2cExPZHpvOW8vRVlxSDF1algxeDllTnhpTEE3MkpCV2NLZ0s2cVB2QStHcVE9PQ==/4/5/2/0/3/4/ce94d.mp4:hls:manifest.m3u8
