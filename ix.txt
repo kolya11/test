@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,1
-https://twist.stream.voidboost.cc/d9fabf6db910d1e99fa6529a8821a916:2023021308:SW1jSzRPcGZLM1JFZ3g4Yms0bGMwS3lsTjE4bEEzdkFYZGNneFJyTmx2cExPZHpvOW8vRVlxSDF1algxeDllTnhpTEE3MkpCV2NLZ0s2cVB2QStHcVE9PQ==/4/5/2/0/3/4/qw3dr.mp4
+https://twist.stream.voidboost.cc/d9fabf6db910d1e99fa6529a8821a916:2023021308:SW1jSzRPcGZLM1JFZ3g4Yms0bGMwS3lsTjE4bEEzdkFYZGNneFJyTmx2cExPZHpvOW8vRVlxSDF1algxeDllTnhpTEE3MkpCV2NLZ0s2cVB2QStHcVE9PQ==/4/5/2/0/3/4/qw3dr.mp4:hls:manifest.m3u8
